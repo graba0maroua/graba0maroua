@@ -1,6 +1,6 @@
 # ⭐ Hey, I'm Graba Maroua  
 
-** AI & Data Science Graduate |  Software Engineer**  
+**AI & Data Science Graduate |  Software Engineer**  
 ---
 
 Master’s graduate in **Artificial Intelligence**, focused on **data science, machine learning, and predictive modeling**.  
@@ -40,9 +40,3 @@ I enjoy turning ideas into functional, polished products.
   <img src="https://github-readme-stats.vercel.app/api?username=graba0maroua&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graba0maroua&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
-
----
-
-## Contact Me  
-grabamaroua23@gmail.com  
-[LinkedIn](https://linkedin.com/in/grabamaroua)
