@@ -1,8 +1,6 @@
-# 👋 Hey, I'm Graba Maroua  
+# ⭐ Hey, I'm Graba Maroua  
 
-**🎓 AI & Data Science Graduate | 💻 Software Engineer**  
-📍 Algiers, Algeria | 🌐 [LinkedIn](https://linkedin.com/in/grabamaroua)  
-
+** AI & Data Science Graduate |  Software Engineer**  
 ---
 
 Master’s graduate in **Artificial Intelligence**, focused on **data science, machine learning, and predictive modeling**.  
@@ -10,14 +8,14 @@ I enjoy turning data into practical solutions and building AI systems that solve
 
 ---
 
-## 💼 Freelance Web Developer  
+## Freelance Web Developer  
 I design and build **web solutions** for businesses and individuals.  
 From **front-end interfaces** to **back-end systems**, I create clean, user-friendly apps using **React, Next.js, Laravel, and Node.js**.  
 I enjoy turning ideas into functional, polished products.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p>
   <!-- Programming Languages -->
@@ -37,36 +35,14 @@ I enjoy turning ideas into functional, polished products.
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grabamaroua&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grabamaroua&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=graba0maroua&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graba0maroua&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grabamaroua&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
-
----
-
-## 📂 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/grabamaroua/PROJECT_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grabamaroua&repo=PROJECT_NAME&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/grabamaroua/PROJECT_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grabamaroua&repo=PROJECT_NAME_2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📬 Contact Me  
-📧 grabamaroua23@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/grabamaroua)
+## Contact Me  
+grabamaroua23@gmail.com  
+[LinkedIn](https://linkedin.com/in/grabamaroua)
