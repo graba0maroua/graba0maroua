@@ -34,6 +34,8 @@ I enjoy turning ideas into functional, polished products.
 </p>
 
 ---
+Occasionally act as a **human Google Translate** between foreign companies and Algerian clients
+---
 
 ## 📊 GitHub Stats
 <p align="center">
