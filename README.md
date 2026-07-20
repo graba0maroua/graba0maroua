@@ -4,7 +4,7 @@
 ---
 
 Master’s graduate in **Artificial Intelligence**, focused on **data science, machine learning, and predictive modeling**.  
-I enjoy turning data into practical solutions and building AI systems that solve real problems.
+I enjoy playing with data !
 
 ---
 
